@@ -1,7 +1,7 @@
 package react.beautifuldnd.demo
 
 import cats._
-import cats.implicits._
+import cats.syntax.all._
 import japgolly.scalajs.react._
 import japgolly.scalajs.react.vdom.html_<^._
 import org.scalajs.dom.document
