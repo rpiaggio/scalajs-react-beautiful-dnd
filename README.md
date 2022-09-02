@@ -1,3 +1,5 @@
+## WARNING: This repository is abandoned. It has been migrated to [lucuma-react](https://github.com/gemini-hlsw/lucuma-react).
+
 # scalajs-react-beautiful-dnd
 
 Facade to use [`react-beautiful-dnd`](https://github.com/atlassian/react-beautiful-dnd) in [`scalajs-react`](https://github.com/japgolly/scalajs-react).
