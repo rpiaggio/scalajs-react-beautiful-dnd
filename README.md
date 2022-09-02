@@ -1,4 +1,4 @@
-## WARNING: This repository is abandoned. It has been migrated to [lucuma-react](https://github.com/gemini-hlsw/lucuma-react).
+### WARNING: This repository is abandoned. It has been migrated to [lucuma-react](https://github.com/gemini-hlsw/lucuma-react).
 
 # scalajs-react-beautiful-dnd
 
